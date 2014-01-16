@@ -1,4 +1,3 @@
-
 Responsive HTML5 gallery tutorial
 =================================
 
@@ -6,3 +5,4 @@ Responsive HTML5 gallery tutorial
 
 Tutorial in [tomicloud.com blog](http://tomicloud.com/2014/01/responsive-gallery).
 
+<img src="screenshot.png"/>
